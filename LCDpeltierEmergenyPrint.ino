@@ -1,0 +1,6 @@
+void LCDpeltierEmergenyPrint()
+{
+  myLCD.clear();
+  
+}
+
